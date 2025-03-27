@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "HelloWorldd\\bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/b61c14ee-0646-4d4a-857a-7e76d6a5065c/resourceGroups/webbie-grp/providers/Microsoft.Web/sites/ps-hello"
+}
